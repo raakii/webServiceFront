@@ -1,0 +1,75 @@
+{
+     "products" : [
+        {
+          "id": 1,
+          "name": "Wireless Earbuds, IPX8",
+          "price": 89,
+          "description": "Organic Cotton, fairtrade certified",
+          "image": "require('../assets/headphone2.png')"
+        },
+        {
+          "id":2,
+          "name": "Wireless Earbuds, IPX8",
+          "price": 89,
+          "description": "Organic Cotton, fairtrade certified",
+          "image": "require('../assets/headphone2.png')"
+        },
+        {
+          "id": 3,
+          "name": "Wireless Earbuds, IPX8",
+          "price": 89,
+          "description": "Organic Cotton, fairtrade certified",
+          "image": "require('../assets/headphone2.png')"
+        },
+        {
+          "id": 4,
+          "name": "Wireless Earbuds, IPX8",
+          "price": 89,
+          "description": "Organic Cotton, fairtrade certified",
+          "image": "require('../assets/headphone2.png')"
+        },
+        {
+          "id": 5,
+          "name": "Wireless Earbuds, IPX8",
+          "price": 89,
+          "description": "Organic Cotton, fairtrade certified",
+          "image": "require('../assets/headphone2.png')"
+        },
+        {
+          "id": 6,
+          "name": "Wireless Earbuds, IPX8",
+          "price": 89,
+          "description": "Organic Cotton, fairtrade certified",
+          "image": "require('../assets/headphone2.png')"
+        },
+        {
+          "id": 7,
+          "name": "Wireless Earbuds, IPX8",
+          "price": 89,
+          "description": "Organic Cotton, fairtrade certified",
+          "image": "require('../assets/headphone2.png')"
+        },
+        {
+          "id": 8,
+          "name": "Wireless Earbuds, IPX8",
+          "price": 89,
+          "description": "Organic Cotton, fairtrade certified",
+          "image": "require('../assets/headphone2.png')"
+        },
+        {
+          "id": 9,
+          "name": "Wireless Earbuds, IPX8",
+          "price": 89,
+          "description": "Organic Cotton, fairtrade certified",
+          "image": "require('../assets/headphone2.png')"
+        },
+        {
+            "id": 10,
+            "name": "Wireless Earbuds, IPX8",
+            "price": 89,
+            "description": "Organic Cotton, fairtrade certified",
+            "image": "require('../assets/headphone2.png')"
+          }
+    
+      ]
+}
